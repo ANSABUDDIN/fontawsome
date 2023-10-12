@@ -2881,10 +2881,10 @@ img {
   transition: transform 0.3s, -webkit-transform 0.3s;
 }
 /*# sourceMappingURL=style.css.map */
-.navbar.navbar-sticky {
+/* .navbar.navbar-sticky {
     -webkit-transition: none;
     transition: none ;
     padding: 0px !important;
     color: #00539f !important;
     background: white !important;
-}
+} */

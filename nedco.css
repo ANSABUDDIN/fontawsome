@@ -2881,3 +2881,8 @@ img {
   transition: transform 0.3s, -webkit-transform 0.3s;
 }
 /*# sourceMappingURL=style.css.map */
+.navbar.navbar-sticky {
+    -webkit-transition: none;
+    transition: none ;
+    background: red !important;
+}

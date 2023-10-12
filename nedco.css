@@ -2884,7 +2884,7 @@ img {
 .navbar.navbar-sticky {
     -webkit-transition: none;
     transition: none ;
-    padding: 0px;
-    color: #00539f;
+    padding: 0px !important;
+    color: #00539f !important;
     background: white !important;
 }
